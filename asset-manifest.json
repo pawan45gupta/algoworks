@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/algoworks/static/css/main.073c9b0a.css",
+    "main.js": "/algoworks/static/js/main.7535f8af.js",
+    "static/js/787.342c33d9.chunk.js": "/algoworks/static/js/787.342c33d9.chunk.js",
+    "static/media/logo.svg": "/algoworks/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/algoworks/index.html",
+    "main.073c9b0a.css.map": "/algoworks/static/css/main.073c9b0a.css.map",
+    "main.7535f8af.js.map": "/algoworks/static/js/main.7535f8af.js.map",
+    "787.342c33d9.chunk.js.map": "/algoworks/static/js/787.342c33d9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.7535f8af.js"
+  ]
+}
